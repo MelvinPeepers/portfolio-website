@@ -2143,7 +2143,7 @@ a.ls-link {
 				}
 
 				#nav > ul > li:hover > a {
-					color: #88cc44;
+					color: #418FFE;
 				}
 
 				#nav > ul > li.active > a, #nav > ul > li.active > span {
@@ -2358,6 +2358,10 @@ a.ls-link {
 				background: #3d4249 url("images/overlay.png");
 			}
 
+.center-section {
+	margin: 0 auto;
+	width: 75%;
+}
 /* Copyright */
 
 	#copyright {
